@@ -1,0 +1,25 @@
+Weekly Report – Week 1
+Date: Feb 10, 2025 - Feb 16, 2025
+
+Completed Tasks
+
+Task 1: Choose a Dataset (Kyle & Wissam)
+Selected Common Voice + L2-ARCTIC as the primary datasets.
+Confirmed that these datasets contain American, British, and Vietnamese-accented English speech.
+
+Task 2: Set Up Work Environment (James)
+GitHub repository created and organized.
+Python and Jupyter Notebook setup completed.
+Installed required libraries: pip install librosa numpy pandas scikit-learn matplotlib tensorflow torch torchaudio
+Initial setup of Google Colab started.
+
+Task 3: Learn About Speech Features (Tai)
+Researched key speech features for accent recognition:
+MFCCs (Mel-Frequency Cepstral Coefficients) – Captures speech characteristics.
+Pitch & Formants – Helps distinguish accent variations.
+Prosody (rhythm, intonation, stress) – Used for linguistic analysis.
+
+Next Steps (Week 2)
+➡ Kyle & Wissam upload dataset files to GitHub.
+➡ James completes Colab notebook and shares the link.
+➡ Tai starts extracting MFCCs, Pitch, and Formants once dataset files and Colab are ready.
