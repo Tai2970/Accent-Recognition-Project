@@ -24,14 +24,6 @@ notebooks/     # Jupyter Notebooks for testing & model training
 docs/          # Reports & project documentation
 README.md      # Project description & setup guide
 
-Setup Instructions
-Clone This Repository
-Run the following command in Git Bash or Command Prompt to download the project: git clone https://github.com/YOUR-USERNAME/accent-recognition-project.git
-cd accent-recognition-project
-
-Install Dependencies
-Ensure you have Python 3.8+ installed. Then install the required packages: pip install librosa numpy pandas scikit-learn matplotlib tensorflow torch torchaudio
-
 Project Workflow
 1. Data Collection & Preprocessing (Weeks 1-2)
 Download & clean Common Voice + L2-ARCTIC datasets.
